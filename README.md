@@ -11,9 +11,14 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
   * [Dive Into Systems](https://diveintosystems.org/singlepage/)
 ## Computer Networks
   * [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
+## Data Structures
+ * [Open Data Structures (in C++)](https://opendatastructures.org/versions/edition-0.1d/ods-cpp/ods-cpp-html.html)
+## Git
+ * [Pro Git](https://git-scm.com/book/en/v2)
 ## Go
   * [Practical Go Lessons](https://diveintosystems.org/singlepage/)
 ## JavaScript
   * [Eloquent JavaScript: A Modern Introduction to Programming](https://eloquentjavascript.net/)
 ## Python
   * [Beej's Guide to Python Programming](https://beej.us/guide/bgpython/)
+  * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
