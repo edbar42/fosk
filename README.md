@@ -13,6 +13,8 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
   * [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
 ## Data Structures
  * [Open Data Structures (in C++)](https://opendatastructures.org/versions/edition-0.1d/ods-cpp/ods-cpp-html.html)
+## Fundamentals
+ * [Structure and Implementation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
 ## Git
  * [Pro Git](https://git-scm.com/book/en/v2)
 ## Go
