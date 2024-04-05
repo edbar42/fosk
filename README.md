@@ -7,16 +7,19 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
   * [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
   * [Beej's Guide to C Programming (Library Reference)](https://beej.us/guide/bgclr/)
   * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
-  * [C Programming For Everybody](https://www.cc4e.com/book/toc.md)
+## Clojure
+  * [Brave Clojure](https://www.braveclojure.com/)
 ## Computer Architecture
   * [Dive Into Systems](https://diveintosystems.org/singlepage/)
 ## Computer Networks
   * [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
 ## Data Structures
- * [Open Data Structures (in C++)](https://opendatastructures.org/versions/edition-0.1d/ods-cpp/ods-cpp-html.html)
+ * [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp-screen.pdf)
+ * [Open Data Structures (in Java)](https://opendatastructures.org/ods-java-screen.pdf)
 ## Fundamentals
  _(These are sort of an honorable mention. I'll add books I think don't properly fit into other categories but are too good not to mention)._
  * [Structure and Implementation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
+ * [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
 ## Git
  * [Pro Git](https://git-scm.com/book/en/v2)
 ## Go
