@@ -30,6 +30,7 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
   * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
   * [The Little Book About OS Development](https://littleosbook.github.io/)
   * [The Art of Unix Programming](https://nakamotoinstitute.org/static/docs/taoup.pdf)
+  * [The Linux Command Line](https://linuxcommand.org/tlcl.php)
 ## Prolog
   * [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online)
 ## Python
