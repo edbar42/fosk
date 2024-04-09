@@ -17,13 +17,15 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
  * [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp-screen.pdf)
  * [Open Data Structures (in Java)](https://opendatastructures.org/ods-java-screen.pdf)
 ## Fundamentals
- _(These are sort of an honorable mention. I'll add books I think don't properly fit into other categories but are too good not to mention)._
+ *These are sort of an honorable mention. I'll add books I think don't properly fit into other categories but are too good not to be listed.*
  * [Structure and Implementation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
  * [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
 ## Git
  * [Pro Git](https://git-scm.com/book/en/v2)
 ## Go
-  * [Practical Go Lessons](https://diveintosystems.org/singlepage/)
+*Go by Example is not really a book, but too good not to be mentioned*
+  * [Practical Go Lessons](https://www.practical-go-lessons.com/)
+  * [Go by Example](https://gobyexample.com/) 
 ## JavaScript
   * [Eloquent JavaScript: A Modern Introduction to Programming](https://eloquentjavascript.net/)
 ## Operating Systems
@@ -36,3 +38,4 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
 ## Python
   * [Beej's Guide to Python Programming](https://beej.us/guide/bgpython/)
   * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
+  * [How to Think Like a Computer Scientist with Python](https://runestone.academy/ns/books/published/thinkcspy/index.html)
