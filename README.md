@@ -1,5 +1,5 @@
 # FOSK
-FOSK (Free and Open Source Knowledge) is a collection of tech-related books that are free to read and use by anyone.
+FOSK (Free and Open Source Knowledge) is a collection of tech-related books that are free to read. This project was born out of my necessity to find good study material for my self-taught journey. I hope this helps you on yours.
 
 Topics are listed in alphabetical order. Topics' content is listed in the order which they were added.
 
