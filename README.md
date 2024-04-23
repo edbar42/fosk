@@ -2,7 +2,8 @@
 FOSK (Free and Open Source Knowledge) is a collection of tech-related books that are free to read. This project was born out of my necessity to find good study material for my self-taught journey. I hope this helps you on yours.
 
 Topics are listed in alphabetical order. Topics' content is listed in the order which they were added.
-
+## Algorithms & Data Structures
+  * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/)
 ## C
   * [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
   * [Beej's Guide to C Programming (Library Reference)](https://beej.us/guide/bgclr/)
