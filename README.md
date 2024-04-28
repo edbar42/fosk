@@ -1,5 +1,5 @@
 # FOSK
-FOSK (Free and Open Source Knowledge) is a collection of tech-related books that are free to read. This project was born out of my necessity to find good study material for my self-taught journey. I hope this helps you on yours.
+FOSK (Free and Open Source Knowledge) is a collection of tech-related books and webpages that are free to read. This project was born out of my necessity to find good study material for my self-taught journey. I hope this helps you on yours.
 
 Topics are listed in alphabetical order. Topics' content is listed in the order which they were added.
 ## Algorithms & Data Structures
@@ -24,9 +24,9 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
 ## Git
  * [Pro Git](https://git-scm.com/book/en/v2)
 ## Go
-*Go by Example is not really a book, but too good not to be mentioned*
   * [Practical Go Lessons](https://www.practical-go-lessons.com/)
-  * [Go by Example](https://gobyexample.com/) 
+  * [Go by Example](https://gobyexample.com/)
+  * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
 ## JavaScript
   * [Eloquent JavaScript: A Modern Introduction to Programming](https://eloquentjavascript.net/)
 ## Operating Systems
@@ -34,6 +34,7 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
   * [The Little Book About OS Development](https://littleosbook.github.io/)
   * [The Art of Unix Programming](https://nakamotoinstitute.org/static/docs/taoup.pdf)
   * [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+  * [Linux Journey](https://linuxjourney.com/)
 ## Prolog
   * [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online)
 ## Python
