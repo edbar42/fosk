@@ -21,6 +21,7 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
  *These are sort of an honorable mention. I'll add books I think don't properly fit into other categories but are too good not to be listed.*
  * [Structure and Implementation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
  * [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
+ * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 ## Git
  * [Pro Git](https://git-scm.com/book/en/v2)
 ## Go
