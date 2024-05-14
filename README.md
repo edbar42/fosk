@@ -8,6 +8,7 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
   * [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
   * [Beej's Guide to C Programming (Library Reference)](https://beej.us/guide/bgclr/)
   * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+  * [Modern C](https://inria.hal.science/hal-02383654/file/ModernC.pdf)
 ## Clojure
   * [Brave Clojure](https://www.braveclojure.com/)
 ## Computer Architecture
