@@ -18,6 +18,7 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
 ## Data Structures
  * [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp-screen.pdf)
  * [Open Data Structures (in Java)](https://opendatastructures.org/ods-java-screen.pdf)
+ * [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 ## Fundamentals
  *These are sort of an honorable mention. I'll add books I think don't properly fit into other categories but are too good not to be listed.*
  * [Structure and Implementation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
