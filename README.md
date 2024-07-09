@@ -30,6 +30,8 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
   * [Practical Go Lessons](https://www.practical-go-lessons.com/)
   * [Go by Example](https://gobyexample.com/)
   * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+## HTMX
+  * [Hypermedia Systems](https://hypermedia.systems/book/contents/)
 ## JavaScript
   * [Eloquent JavaScript: A Modern Introduction to Programming](https://eloquentjavascript.net/)
 ## Operating Systems
