@@ -23,6 +23,10 @@ Topics are listed in alphabetical order. Topics' contents are listed in the orde
   * [Modern C](https://inria.hal.science/hal-02383654/file/ModernC.pdf)
 ## Clojure
   * [Brave Clojure](https://www.braveclojure.com/)
+## Compilers & Interpreters
+ * [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
+ * [Basics of Compiler Design](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf)
+ * [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook/)
 ## Computer Architecture
   * [Dive Into Systems](https://diveintosystems.org/singlepage/)
 ## Computer Networks
@@ -30,7 +34,6 @@ Topics are listed in alphabetical order. Topics' contents are listed in the orde
 ## Misc
  > These are the books that I couldn't fit properly into other categories but are still valuable to mention.
  * [Structure and Implementation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
- * [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
  * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 ## Git
  * [Pro Git](https://git-scm.com/book/en/v2)
@@ -49,6 +52,13 @@ Topics are listed in alphabetical order. Topics' contents are listed in the orde
   * [The Art of Unix Programming](https://nakamotoinstitute.org/static/docs/taoup.pdf)
   * [The Linux Command Line](https://linuxcommand.org/tlcl.php)
   * [Linux Journey](https://linuxjourney.com/)
+  * [Project Oberon: The Design of an Operating System and Compiler](https://people.inf.ethz.ch/wirth/ProjectOberon1992.pdf)
+## Programming Languages
+> To clarify: this section has resources on learning to make your own programming language for educational purposes, not on learning a specific one.
+* [Build Your Own Lisp](https://buildyourownlisp.com/contents)
+* [Beautiful Racket: An Intro­duc­tion to Language-Oriented Program­ming Using Racket](https://beautifulracket.com/introduction.html)
+* [Programming Languages: Application and Interpretation](https://cs.brown.edu/courses/cs173/2012/book/)
+* [The Implementation of Functional Programming Languages](https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf)
 ## Prolog
   * [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online)
 ## Python
