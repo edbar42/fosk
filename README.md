@@ -41,6 +41,8 @@ Topics are listed in alphabetical order. Topics' contents are listed in the orde
   * [Practical Go Lessons](https://www.practical-go-lessons.com/)
   * [Go by Example](https://gobyexample.com/)
   * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+  * [Go 101](https://go101.org/)
+  * [Learning Go](https://www.miek.nl/go/)
 ## HTMX
   * [Hypermedia Systems](https://hypermedia.systems/book/contents/)
 ## JavaScript
