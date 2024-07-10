@@ -1,7 +1,9 @@
 # FOSK
-FOSK (Free and Open Source Knowledge) is a collection of tech-related books and webpages that are free to read. This project was born out of my necessity to find good study material for my self-taught journey. I hope this helps you on yours.
+FOSK (Free and Open Source Knowledge) is a collection of tech-related books and webpages that are free to read. 
 
-Topics are listed in alphabetical order. Topics' content is listed in the order which they were added.
+This project was born out of my necessity to find good study material for my self-taught journey. I hope this helps you on yours.
+
+Topics are listed in alphabetical order. Topics' contents are listed in the order which they were added.
 ## Algorithms & Data Structures
   * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/)
 ## Bash
