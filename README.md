@@ -4,6 +4,9 @@ FOSK (Free and Open Source Knowledge) is a collection of tech-related books and 
 Topics are listed in alphabetical order. Topics' content is listed in the order which they were added.
 ## Algorithms & Data Structures
   * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/)
+## Bash
+  * [Bash Beginners Guide](https://linux.die.net/Bash-Beginners-Guide/)
+  * [Advanced Bash Scripting Guide](https://linux.die.net/abs-guide/)
 ## C
   * [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
   * [Beej's Guide to C Programming (Library Reference)](https://beej.us/guide/bgclr/)
@@ -19,7 +22,7 @@ Topics are listed in alphabetical order. Topics' content is listed in the order 
  * [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp-screen.pdf)
  * [Open Data Structures (in Java)](https://opendatastructures.org/ods-java-screen.pdf)
  * [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
-## Fundamentals
+## Misc
  *These are sort of an honorable mention. I'll add books I think don't properly fit into other categories but are too good not to be listed.*
  * [Structure and Implementation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
  * [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
