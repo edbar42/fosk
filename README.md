@@ -1,11 +1,18 @@
 # FOSK
-FOSK (Free and Open Source Knowledge) is a collection of tech-related books and webpages that are free to read. 
+FOSK (_Free and Open Source Knowledge_) is a collection of tech-related books and webpages that are free to read. 
 
-This project was born out of my necessity to find good study material for my self-taught journey. I hope this helps you on yours.
+I much prefer to study using books. Even though I enjoy taking classes (including video lectures) to get introduced to a new subject, I find that deeper knowledge is always restricted to books or blog posts, hence why I'm refraining from adding video courses to this list. 
+
+Also, if you're just starting out learning a subject, it's far easier to find a good video - or series of videos - than it is to find a good book.
+
+### **This project was born out of my necessity to find good study material for my self-taught journey. Hoprfully, this helps you on yours as well.**
 
 Topics are listed in alphabetical order. Topics' contents are listed in the order which they were added.
 ## Algorithms & Data Structures
   * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/)
+  * [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp-screen.pdf)
+ * [Open Data Structures (in Java)](https://opendatastructures.org/ods-java-screen.pdf)
+ * [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 ## Bash
   * [Bash Beginners Guide](https://linux.die.net/Bash-Beginners-Guide/)
   * [Advanced Bash Scripting Guide](https://linux.die.net/abs-guide/)
@@ -20,12 +27,8 @@ Topics are listed in alphabetical order. Topics' contents are listed in the orde
   * [Dive Into Systems](https://diveintosystems.org/singlepage/)
 ## Computer Networks
   * [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
-## Data Structures
- * [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp-screen.pdf)
- * [Open Data Structures (in Java)](https://opendatastructures.org/ods-java-screen.pdf)
- * [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 ## Misc
- *These are sort of an honorable mention. I'll add books I think don't properly fit into other categories but are too good not to be listed.*
+ > These are the books that I couldn't fit properly into other categories but are still valuable to mention.
  * [Structure and Implementation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
  * [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
  * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
@@ -40,6 +43,7 @@ Topics are listed in alphabetical order. Topics' contents are listed in the orde
 ## JavaScript
   * [Eloquent JavaScript: A Modern Introduction to Programming](https://eloquentjavascript.net/)
 ## Operating Systems
+  > I don't have a separate section for Linux documents. I believe Linux/UNIX-like OSs are so close to the academic way of teaching Operating Systems that it feels counterproductive to separate the two.
   * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
   * [The Little Book About OS Development](https://littleosbook.github.io/)
   * [The Art of Unix Programming](https://nakamotoinstitute.org/static/docs/taoup.pdf)
