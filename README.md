@@ -5,9 +5,9 @@ I much prefer to study using books. Even though I enjoy taking classes (includin
 
 Also, if you're just starting out learning a subject, it's far easier to find a good video - or series of videos - than it is to find a good book.
 
-### **This project was born out of my necessity to find good study material for my self-taught journey. Hoprfully, this helps you on yours as well.**
+### **This project was born out of my necessity to find good study material for my self-taught journey. Hopefully, this helps you on yours as well.**
 
-Topics are listed in alphabetical order. Topics' contents are listed in the order which they were added.
+_Topics are listed in alphabetical order. Topics' contents are listed in the order which they were added._
 ## Algorithms & Data Structures
   * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/)
   * [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp-screen.pdf)
@@ -67,3 +67,5 @@ Topics are listed in alphabetical order. Topics' contents are listed in the orde
   * [Beej's Guide to Python Programming](https://beej.us/guide/bgpython/)
   * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
   * [How to Think Like a Computer Scientist with Python](https://runestone.academy/ns/books/published/thinkcspy/index.html)
+## TypeScript
+  * [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/)
