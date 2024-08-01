@@ -43,6 +43,7 @@ _Topics are listed in alphabetical order. Topics' contents are listed in the ord
   * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
   * [Go 101](https://go101.org/)
   * [Learning Go](https://www.miek.nl/go/)
+  * [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 ## HTMX
   * [Hypermedia Systems](https://hypermedia.systems/book/contents/)
 ## JavaScript
