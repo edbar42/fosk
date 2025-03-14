@@ -35,6 +35,8 @@ Topics are listed in alphabetical order. Topics' contents are listed in the orde
  * [Dive Into Systems](https://diveintosystems.org/singlepage/)
 ## Computer Networks
  * [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
+## Elixir
+ - [The Elixir School](https://elixirschool.com/en) -> Not really a book, but too good to pass.
 ## Misc
  > Books and documents that I couldn't fit properly into other categories but are still worth a mention.
  * [Structure and Implementation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
