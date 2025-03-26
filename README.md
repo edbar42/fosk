@@ -38,11 +38,18 @@ Topics are listed in alphabetical order. Topics' contents are listed in the orde
 ## Elixir
  - [The Elixir School](https://elixirschool.com/en) -> Not really a book, but too good to pass.
 ## Misc
- > Books and documents that I couldn't fit properly into other categories but are still worth a mention.
+ #### Books and documents that I couldn't fit properly into other categories but are still worth a mention.
  * [Structure and Implementation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
  * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+ * [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/)
+ * [Object-Oriented Thinking, Part One](https://beej.us/blog/data/object-oriented-programming/)
+ * [Object-Oriented Thinking, Part Two](https://beej.us/blog/data/object-oriented-programming-2/)
+   
+   > _Honestly, these two blog posts summed up my entire semester of OOP classes in college_
+
 ## Git
  * [Pro Git](https://git-scm.com/book/en/v2)
+ * [Beej's Guide to Git](https://beej.us/guide/bggit/)
 ## Go
  * [Practical Go Lessons](https://www.practical-go-lessons.com/)
  * [Go by Example](https://gobyexample.com/)
