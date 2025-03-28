@@ -81,5 +81,7 @@ Topics are listed in alphabetical order. Topics' contents are listed in the orde
   * [Beej's Guide to Python Programming](https://beej.us/guide/bgpython/)
   * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
   * [How to Think Like a Computer Scientist with Python](https://runestone.academy/ns/books/published/thinkcspy/index.html)
+## Rust
+ * [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 ## TypeScript
   * [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/)
